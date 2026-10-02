@@ -1,0 +1,22 @@
+# Managed workspace metadata
+/.agents/
+/.aws/
+/.codex/
+
+# Godot generated caches (keep .uid and .import metadata under version control)
+**/.godot/
+**/.import/
+**/export_credentials.cfg
+
+# Blender backup and recovery files (keep .blend source files)
+*.blend[0-9]*
+*.blend@
+
+# Build output
+/build/
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
